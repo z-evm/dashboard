@@ -1,4 +1,5 @@
-Next.js Dashboard Project
+# Next.js Dashboard Project
+
 This project is based on the official Next.js tutorial to help users learn and practice Next.js. The dashboard application demonstrates essential features of Next.js, including server-side rendering, API routes, and dynamic routing, in a real-world project.
 
 Features
@@ -20,7 +21,7 @@ pnpm package manager installed globally
 Installation
 Clone the repository:
 
-git clone <repository-url>
+git clone <https://github.com/z-evm/dashboard.git>
 cd dashboard
 
 Install dependencies:
